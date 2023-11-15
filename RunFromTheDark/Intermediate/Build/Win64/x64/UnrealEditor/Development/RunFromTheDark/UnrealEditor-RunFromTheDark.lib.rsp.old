@@ -8,8 +8,10 @@
 /NODEFAULTLIB
 "D:\GitHub Project\RunningFromTheDark\RunFromTheDark\Intermediate\Build\Win64\x64\RunFromTheDarkEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
 "D:\GitHub Project\RunningFromTheDark\RunFromTheDark\Intermediate\Build\Win64\x64\UnrealEditor\Development\RunFromTheDark\MyPawn.gen.cpp.obj"
+"D:\GitHub Project\RunningFromTheDark\RunFromTheDark\Intermediate\Build\Win64\x64\UnrealEditor\Development\RunFromTheDark\PlayCharacter.gen.cpp.obj"
 "D:\GitHub Project\RunningFromTheDark\RunFromTheDark\Intermediate\Build\Win64\x64\UnrealEditor\Development\RunFromTheDark\RunFromTheDark.init.gen.cpp.obj"
 "D:\GitHub Project\RunningFromTheDark\RunFromTheDark\Intermediate\Build\Win64\x64\UnrealEditor\Development\RunFromTheDark\RunFromTheDark.cpp.obj"
 "D:\GitHub Project\RunningFromTheDark\RunFromTheDark\Intermediate\Build\Win64\x64\UnrealEditor\Development\RunFromTheDark\MyPawn.cpp.obj"
+"D:\GitHub Project\RunningFromTheDark\RunFromTheDark\Intermediate\Build\Win64\x64\UnrealEditor\Development\RunFromTheDark\PlayCharacter.cpp.obj"
 "D:\GitHub Project\RunningFromTheDark\RunFromTheDark\Intermediate\Build\Win64\x64\UnrealEditor\Development\RunFromTheDark\Default.rc2.res"
 /OUT:"D:\GitHub Project\RunningFromTheDark\RunFromTheDark\Intermediate\Build\Win64\x64\UnrealEditor\Development\RunFromTheDark\UnrealEditor-RunFromTheDark.lib"
