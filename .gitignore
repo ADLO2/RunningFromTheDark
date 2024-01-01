@@ -72,3 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+RunFromTheDark/Intermediate/CachedAssetRegistry_0.bin
+RunFromTheDark/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+RunFromTheDark/Saved/Logs/RunFromTheDark.log
